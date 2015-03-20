@@ -1,602 +1,565 @@
-\id AMO Open English Bible
-\ide UTF-8
-
-\rem   Original Base Text:
-\rem       Kent's Student's Old Testament vol 3
+\c 1 
+\v 1 The words of Amos,
+\q2 one of the drovers\f + \fl Lit. \fqa one of the cattle-branders. \ft Amos was probably "a rider for a brand," herding animals in an economy of scale. See 7.14f.\f* from Tekoa.
+\q1 These are the visions that he saw about Israel
+\q2 during the term of King Uzziah of Judah,
+\q1 and the term of Jeroboam son of Joash, king of Israel,
+\q2 two years before the earthquake.
+\b 
+\rem The breaks in this document follow the (admittedly arbitrary) {s} and {p} breaks in the WLC.
+\rem Section headings have been deleted, in order to allow the text to speak for itself without interruption.
 \rem 
-\rem   Tags:
-\rem       (none)
-\rem  
-\rem   Status:
-\rem       DEVELOPMENT ONLY
-\rem       Complete
-\rem       Partially Checked
-\rem       US only
-\rem       NRSV versification only
-
-\h Amos
-\mt2 The Sermons of
-\mt1 Amos
-
-\c 1
-\v 1
-\s The Superscription and Text of the Book
-
-\p The words of Amos, one of the shepherds of Tekoa, which he saw concerning Israel in the reign of King Uzziah of Judah, and in the reign of Jeroboam the son of King Joash of Israel, two years before the earthquake.
-
-\q \v 2 Amos said:
-\q Whenever the \nd Lord\nd* roars from Zion,
-\q and utters his voice from Jerusalem,
-\q the pastures of the shepherds dry up,
-\q and the top of Carmel becomes arid.
-
-\s The Judgment About to Overtake Israel's Guilty Neighbors
-
-\q \v 3 The \nd Lord\nd* says:
-\q For Damascus' three crimes ---
-\q no, four! --- I will not rescind my judgment.
-\q They have threshed Gilead with threshing instruments of iron.
+\v 2 And he said, "The \nd Lord\nd* roars from Zion,
+\q2 and calls out from Jerusalem.
+\q1 'Hey! The sheep pastures are declining,
+\rem Lit. "And the sheep pastures..."
+\q2 and the top of Carmel is dying back!'”
+\b 
+\v 3 The \nd Lord\nd* says, "After three atrocities from Damascus –-
+\q2 make that four --- I am not suspending their sentence.
+\q1 They've used iron tools to thresh Gilead.
+\q2 \v 4 So I will set the house of Hazael on fire,
+\q1 and it will burn up the high buildings of Ben-hadad.
+\q2 \v 5 And I will break the gate-bar of Damascus,
+\q1 and get rid of those who live in the valley of Aven,
+\q2 and the one who holds the scepter in Beit Eden;
+\q1 the people of Aram will be deported to Kir,"
+\q2 says the \nd Lord\nd*.
+\b 
+\v 6 The \nd Lord\nd* says, "After three atrocities from Gaza ---
+\q2 make that four --- I am not suspending their sentence.
+\q1 Because they herded together a whole people,
+\q2 and sold them off as slaves to Edom.
+\v 7 So I will set the wall of Gaza on fire,
+\q2 and it will burn up her high buildings.
+\v 8 And I will get rid of anyone who lives in Ashdod,
+\q2 and of the one who holds the scepter in Ashkelon.
+\q1 I will turn my hand against Ekron,
+\q2 and the survivors of the Philistines will die off," says the \nd Lord\nd*.
+\b 
+\v 9 The \nd Lord\nd* says, "After three atrocities from Tyre ---
+\q2 make that four --- I am not suspending their sentence.
+\q1 Because they deported an entire population to Edom,
+\q2 and did not honor their treaty of friendship.
+\v 10 So I will set fire to the walls of Tyre.
+\q2 And it will burn up her high buildings."
+\b 
+\v 11 The \nd Lord\nd* says, "After three atrocities from Edom ---
+\q2 make that four --- I am not suspending their sentence.
+\q1 They hunted their sister nation with the sword,
+\q2 and stifled their pity,
+\q1 and refused to let go of their anger,
+\q2 and permanently held on to their rage.
+\v 12 So I will set fire to Teman.
+\q2 It will burn up the high buildings of Bozrah."
+\b 
+\v 13 The \nd Lord\nd* says, "After three atrocities from the nation of Ammon ---
+\q2 make that four --- I am not suspending their sentence.
+\q1 Because they ripped open pregnant women in Gilead,
+\q2 to be able to expand their own territory.
+\v 14 So I will have fire set to the wall of Rabbah.
+\q2 It will burn up her high buildings,
+\q1 with a bugle call in the heat of battle,
+\q2 with a charge during the assault.\f + \ft Taking the words "rush" and "storm" in their military sense.\f*
+\v 15 Their king will be deported on foot,
+\q2 he and his officials all together," the \nd Lord\nd* says.
 \b
-\q \v 4 Therefore I will send fire on Hazael's house,
-\q and it will devour the palaces of Ben-hadad,
-\q \v 5 and I will break open the gate of Damascus,
-\q and I will wipe out those who live in the valley of Aven,
-\q and the sceptered ruler of Beth-Eden;
-\q the people of Aram will go into captivity in Kir,
-\q says the \nd Lord\nd*.
-\b
-\q \v 6 The \nd Lord\nd* says:
-\q For Gaza's three crimes ---
-\q no, four! --- I will not rescind my judgment.
-\q They carried away captive a whole nation,
-\q sold them as slaves to Edom.
-\b
-\q \v 7 Therefore I will send fire on the wall of Gaza,
-\q and it shall devour her palaces.
-\q \v 8 And I will wipe out those who live in Ashdod,
-\q and the sceptered ruler of Askelon.
-\q I will turn my hand against Ekron,
-\q and the remnant of the Philistines will perish,
-\q the \nd Lord\nd* says.
-\b
-\q \v 9 The \nd Lord\nd* says:
-\q For Tyre's three crimes ---
-\q no, four! --- I will not rescind my judgment.
-\q They carried away captive a whole people into exile in Edom,
-\q and did not remember the brotherly covenant.
-\b
-\q \v 10 So I will send fire on the walls of Tyre.
-\q It will devour her palaces.
-\b
-\q \v 11 The \nd Lord\nd* says:
-\q For Edom's three crimes ---
-\q no, four! --- I will not rescind my judgment.
-\q They pursued their relatives with the sword,
-\q stilled their pity,
-\q cherished their anger continually,
-\q retained their fury forever.
-\b
-\q \v 12 So I will send a fire into Teman.
-\q It will destroy the palaces of Bozrah.
-\b
-\q \v 13 The \nd Lord\nd* says:
-\q For Ammonites' three crimes ---
-\q no, four! --- I will not rescind my judgment.
-\q They have ripped open pregnant women in Gilead,
-\q in their lust for land.
-\b
-\q \v 14 So I will kindle a fire on the wall of Rabbah.
-\q It will destroy her palaces,
-\q with a war-cry in the day of battle,
-\q with a tempest in the day of the whirlwind.
-\q \v 15 Their king will go into exile,
-\q he and his nobles together,
-\q says the \nd Lord\nd*.
-\b
-\q \c 2 \v 1 The \nd Lord\nd* says:
-\q For Moab's three crimes ---
-\q no, four! --- I will not rescind my judgment.
-\q They have burned to lime the bones of the king of Edom,	
-\q \v 2 to desecrate the dead.
-\b
-\q So I will send a fire into Moab.
-\q It will devour the palaces of Kirioth,
-\q with a war-cry, 
-\q with the sound of trumpets.
-\q \v 3 I will kill the ruler,
-\q all his nobles I will slay with him,
-\q says the \nd Lord\nd*.
-\b
-\q \v 4 The \nd Lord\nd* says:
-\q For Judah's three crimes ---
-\q no, four! --- I will not rescind my judgment.
-\q They have rejected the law of the \nd Lord\nd*,
-\q and have not kept his statutes,
-\q but their false gods their ancestors followed,
-\q have led them astray.
-\b
-\q \v 5 So I will send a fire on Judah.
-\q It will devour the palaces of Jerusalem.
-
-\s The Judgment Awaiting Thrice Guilty Israel
-
-\q \v 6 The \nd Lord\nd* says:
-\q For Israel's three crimes ---
-\q no, four! --- I will not rescind my judgment.
-\q They sell the righteous for money,
-\q the needy for a pair of shoes.
-\q \v 7 They trample on the head of the poor,
-\q push the humble out of the way.
-\q Father and son go to the same temple girl,
-\q and so profane my holy name.
-\q \v 8 They stretch themselves on garments taken in pledges beside every altar,
-\q and they drink the wine of those who have been fined in the house of their God.	
-\b
-\q \v 9 It was I who destroyed the Amorites for your sake,
-\q whose height was like that of the cedars, 
-\q as strong as oaks.
-\q I destroyed their fruit from above and their roots from below.
-\b
-\q \v 10 It was I who brought you up from the land of Egypt,	
-\q and led you forty years in the wilderness,
-\q and brought you here to possess the land of the Amorites.	
-\b
-\q \v 11 I raised up some of your sons to be prophets 
-\q and some of your youths to be Nazirites.
-\q Is not this indeed so, Israelites? 
-\q says the \nd Lord\nd*.	
-\q \v 12 But you made the Nazirites drink wine
-\q and banned the prophets from prophesying.
-\b
-\q \v 13 Listen! 
-\q It is I who will make you groan in your places,	
-\q as a wagon groans under its load of grain.	
-\b
-\q \v 14 Then flight will fail the swift,	
-\q and the strength of the strongest will be useless.
-\q The warrior will not save his life,	
-\q \v 15 the archer will not stand firm,
-\q the swift of foot will not escape,
-\q the horseman will not save his life.
-\q \v 16 The bravest of warriors
-\q will flee away naked in that day,
-\q says the \nd Lord\nd*.
-
+\c 2
+\v 1 The \nd Lord\nd* says, " After three atrocities from Moab ---
+\q2 make that four --- I am not suspending their sentence.
+\q1 Because they burned the bones
+\q2 of the king of Edom to lime.
+\v 2 So I will set fire to Moab.
+\q2 It will burn up the high buildings of the Kerioth,
+\q1 And Moab will perish in the onslaught.
+\q2 With a bugle-call, with the sound of the horn.
+\v 3 And I will get rid of the judges among them,
+\q2 and execute all of his officials with him," says the \nd Lord\nd*.
+\b 
+\v 4 The \nd Lord\nd* says, "After three atrocities from Judah ---
+\q2 make that four --- I am not suspending their sentence.
+\q1 Because they have trampled on the teaching of the \nd Lord\nd*,
+\q2 and have not kept his traditions.
+\q1 But their mirages have made them wander,
+\q2 in the same ways their ancestors followed.
+\v 5 So I will set fire to Judah.
+\q2 And it will burn up the high buildings of Jerusalem."
+\b 
+\v 6 The \nd Lord\nd* says, "After three atrocities from Israel ---
+\q2 make that four --- I am not suspending their sentence.
+\v They buy out stable people with money,
+\q2 and foreclose on those who are bankrupt.\f + \fl Lit. \fqa and the needy for a pair of shoes. \ft A land transaction is implied (Ruth 4.7, Deut. 25.9).\f*
+\rem Lit. "" 
+\v 7 Driving the head of the weak down into the dusty ground,
+\q2 and taking advantage of simple people.
+\q1 A man and his father use the same girl,
+\q2 Flaunting their violation of my sacred name.
+\v 8 And they bed down on pawned clothing
+\q2 at the foot of every altar,
+\q1 and drink wine paid as fines
+\q2 in the temple of their God."
+\b 
+\v 9 Now, I was the one who wiped out the Amorites in front of you.
+\q2 They were tall, as tall as cedars,
+\q1 and they were sturdy as oak trees.
+\q2 I cut off their fruit up above and their roots down below.
+\v 10 And I was the one who brought you up from the land of Egypt,
+\q2 and made you walk forty years in the wilderness,
+\q1 to inherit the land of the Amorites.
+\q2 \v 11 I put forward some of your sons as preachers,\f + \fq preachers \fl Lit. \fqa prophets.\f*
+\q1 and some of your young men as Nazirites.
+\q2 'Isn't that true, children of Israel?' says the \nd Lord\nd*.
+\v 12 But you made the Nazirites get drunk on wine,
+\q2 and you told the preachers, “Don't rock the boat!”\f + \fl Lit. \fqa "Do not prophesy!"\f*
+\v 13 And now I'm the one who'll load you down till you groan,
+\q2 like a cart wheel groans, loaded with sheaves.
+\v 14 Then runners will run out of speed,
+\q2 and strong men will not have energy left.
+\q1 And soldiers will not save themselves,
+\q2 \v 15 and marksmen won't hold their position.
+\q1 And agile runners will not get away,
+\q2 and riders on horseback won't save themselves.
+\v 16 And the most courageous of soldiers
+\q2 will throw down their arms and run away then,”\f + \fq throw down their arms and run away \fl Lit. \fqa run away naked.\f* says the \nd Lord\nd*.
+\b 
 \c 3
-\v 1
-\s The Basis of the Prophet's Arraignment of Israel
-
-\q Hear this word
-\q which the \nd Lord\nd* has spoken against you, Israelites,
-\q against the whole nation that I brought out of Egypt:
-\q \v 2 You alone have I cared for of all the nations of the world,
-\q this is why I will punish you for your crimes.
-\b
-\q \v 3 Do two walk together unless they agreed to meet?
-\q \v 4 Does a lion roar in the forest when there is no prey for him?
-\q Does a young lion cry out in his den unless he has caught something?
-\q \v 5 Does a bird swoop down into a trap if no bait is set for it?
-\q Does a trap spring up from the ground if nothing sets it off?
-\q \v 6 Can a trumpet be blown in a city and the people not tremble?
-\q Can disaster strike a city and the \nd Lord\nd* not have caused it?
-\b
-\q \v 7 Surely the Lord the \nd Lord\nd* does nothing
-\q without revealing his purpose to his servants the prophets.
-\q \v 8 The lion has roared; who does not fear?
-\q The Lord \nd God\nd* has spoken; who will not prophesy?
-
-\s The Guilt and Doom of Samaria
-
-\q \v 9 Proclaim over the palaces in Ashdod,
-\q and over the palaces in the land of Egypt:
-\q Gather upon the mountain of Samaria,
-\q and see the violent turmoil,
-\q the acts of oppression in her midst.
-\q \v 10 For they do not know how to do right.
-\q They are heaping up violence and oppression in their palaces,
-\q says the \nd Lord\nd*.
-\b
-\v 11 
-\q Therefore the Lord \nd God\nd* says:	
-\q An enemy will surround the land,	
-\q he will strip your strength from you.
-\q and your palaces will be looted.
-\v 12 
-\q The \nd Lord\nd* says:
-\q Just as a shepherd rescues from the jaws of a lion
-\q two shin-bones or a piece of an ear,
-\q so the Israelites living in Sameria will be rescued ---
-\q with the corner of a couch,
-\q and the damask of a divan!
-\b
-\v 13 \q Hear and testify against the house of Jacob,
-\q says the Lord \nd God\nd*, the God of hosts.
-\v 14 \q On the day when I punish Israel for their crimes,
-\q I will also visit in judgment the altars of Bethel,
-\q and the horns of the altar will be hacked off,
-\q and they will fall to the ground.
-\q \v 15 I will destroy the winter houses together with the summer houses
-\q and the houses of ivory will perish.
-\q Many great houses will be swept away,
-\q says the \nd Lord\nd*.
-\b
-\q \c 4 \v 1 Listen to this message, women of Sameria, 
-\q you well-fed cows of Bashan,
-\q who oppress the poor and crush the needy,
-\q who say to your husbands, “Bring us another drink!”
-\b
-\q \v 2 The Lord \nd God\nd* has sworn by his holiness:
-\q The time is coming when you will be carried away in baskets,
-\q your children carried away in fish-baskets,
-\q \v 3 and through the breaches in the city wall you will go,
-\q thrown out on the garbage dump,
-\q says the \nd Lord\nd*.
-
-\s Israel's Failure to Understand the Lord's Judgments
-*********
-
-\q \v 4 Come to Bethel and transgress,
-\q At Gilgald increase your transgression;
-\q And bring in the morning your sacrifices,
-\q On the third day your tithes!
-\b
-\q \v 5 And burn some leavened bread as a thank-offering,
-\q And proclaim aloud the voluntary offerings,
-\q For you love to do so, O Israelites!
-\q It is the oracle of the Lord the \nd Lord\nd*.
-\b
-\q \v 6 But it was also I who gave to you
-\q Cleanness of teethe in all your cities,
-\q And lack of bread in all your palaces,
-\q Yet ye have not returned to me, is the oracle of the \nd Lord\nd*.
-\b
-\q \v 7 I also it was who withheld from you the rain,
-\q And I sent rain upon one city,
-\q While upon another I did not let it rain,
-\q \v 8 Yet ye did not return to me, is the oracle of the \nd Lord\nd*.
-\b
-\q \v 9 I smote you with blight and mildew,
-\q I laid waste your gardens and vineyards,
-\q Your fig and your olive trees the young locust devoured;
-\q Yet you did not return to me, is the oracle of the \nd Lord\nd*.
-\b
-\q \v 10 I sent among you a pestilence by the way of Egypt,
-\q I slew your youths with the sword, taking captive your horses,
-\q And I caused the stench of your camps to rise in your nostrils;
-\q Yet ye did not return to me, is the oracle of the \nd Lord\nd*.
-\b
-\q \v 11 I wrought a destruction among you,
-\q As God destroyed Sodom and Gomorrah,
-\q And ye were as a brand plucked from the burning;
-\q Yet ye did not return to me, is the oracle of the \nd Lord\nd*.
-\b
-\q \v 12 Therefore thus will I do to thee, O Israel,
-\q Because I am about to do this to thee,
-\q Prepare to meet thy God, O Israel.
-\b
-\q \v 13 For behold it is he who formeth the mountains,
-\q And createth the wind,
-\q And declareth to man what is his thought;
-\q He maketh dawn and darkness,
-\q And treadeth upon the heights of the earth,
-\q the \nd Lord\nd*, the God of hosts, is his name.
-
+\v 1 Listen to this problem,
+\q2 that the \nd Lord\nd* has with you, people of Israel,
+\q1 with the whole family
+\q2 that I brought out of the land of Egypt:
+\v 2 “You are the only ones I've had a relationship with
+\q2 out of all the families on the earth.
+\q1 That's why I'm holding you accountable
+\q2 for all of your shortcomings."
+\v 3 Are two people going to walk together
+\q2 unless they recognize each other?
+\v 4 Does a lion roar in the forest
+\q2 unless it is over a carcass?
+\q1 Does a leopard howl in its den
+\q2 if it hasn't brought home a kill?
+\v 5 Will a net bring down a songbird
+\q2 if it hasn't gotten tangled up in it?
+\q1 Will a snare spring up from the ground
+\q2 unless it has captured game?
+\v 6 When an alarm is trumpeted in a city,
+\q2 won't everyone be agitated?
+\q1 When disaster takes place in a city,
+\q2 wasn't it brought on by the \nd Lord\nd*?
+\v 7 Because His [cth:Honour|us:Honor] the \nd Lord\nd* won't do a thing
+\rem In the US "Your Honor" is the proper form of address for a magistrate. Everyone else is "mister," "sir," or nothing.
+\rem Not sure of the best Continental equivalent. Your Excellency? My Lord Yahweh?
+\q2 before he lets the preachers who serve him in on the plan.
+\v 8 A lion has roared. Will anyone not be afraid?
+\q2 His [cth:Honour|us:Honor] the \nd Lord\nd* has spoken. Will anyone not speak out?
+\v 9 Make an announcement from the high buildings of Ashdod,
+\q2 and from the high buildings in the land of Egypt.
+\q1 And say, "Assemble on the hills around Samaria,
+\q2 and look down on the great uproar inside,
+\q1 the acts of oppression done there."
+\q2 \v 10 "It's that they have no conscience,
+\q1 no sense of responsibility,"
+\q2 explains the \nd Lord\nd*.
+\q1 "They are stockpiling stolen goods
+\q2 and loot in their high buildings."
+\b 
+\v 11 "So, then," says His [cth:Honour|us:Honor] the \nd Lord\nd*,
+\q2 An enemy will come and surround the land,
+\q1 that will bring down your fortifications,
+\q2 and your high buildings will be looted."
+\v 12 This is what the \nd Lord\nd* says.
+\q2 “Just as a shepherd recovers, from a lion's meal,
+\q1 a couple of shanks or a piece of an ear,
+\q2 so the descendants of Israel living in Samaria will be escape ---
+\q1 with a piece of a bed-frame,
+\q2 with the damask cover of a couch!"
+\v 13 "Hear and testify against the family of Jacob,"
+\q2 says His [cth:Honour|us:Honor] the \nd Lord\nd*, the God of many armies.
+\v 14 "For when that I hold Israel accountable for their crimes,
+\q2 I will also hold the altars of Beit El accountable.
+\q1 And the horns of the altar will be chopped off,
+\q2 and they will fall down on the ground.
+\v 15 And I will get rid of the winter houses,
+\q2 not only the summer houses,
+\q1 and the ivory mansions will be no more.
+\q2 And many homes will be torn down," says the \nd Lord\nd*.
+\b 
+\c 4
+\v 1 Listen to this, Bashan heifers.
+\q2 You, there, on Samaria Hill.
+\q1 Shouldering off the weak, scattering the needy,
+\q2 calling to your husbands, “Bring out the drinks!”
+\v 2 His [cth:Honour|us:Honor] the \nd Lord\nd* has sworn by his holiness:
+\q2 "A time is coming for all of you
+\q1 when you will be led along with hooks,
+\q2 and chained to the one behind with fishhooks.
+\v 3 You will go out in a line through the breaks in the wall,
+\q2 and they will throw you out on the worm-palace," says the \nd Lord\nd*.
+\v 4 "Go to Beit El with your indiscretions.
+\q2 At Gilgal, heap your scandals high;
+\q1 And bring your sacrifices at first light.
+\q2 Save your tithes till the third day!
+\v 5 Then burn some leavened bread as a thank-offering,
+\q2 and announce your free-will offerings for everyone to hear.
+\q1 For that's what you love to do, you descendants of Israel!"
+\q2 says His [cth:Honour|us:Honor] the \nd Lord\nd*.
+\v 6 "I was the one, though, that gave you
+\q2 squeaky-clean teeth in all your cities,
+\q1 and food insecurity in all your high buildings.
+\q2 And yet you didn't come back to me," says the \nd Lord\nd*.
+\v 7 "I was also the one who kept it from raining on you
+\q2 with three months left before harvest.
+\q1 And I let it rain on one city
+\q2 At the same time as I did not let it rain on another.
+\q1 Yet another region got some rain,
+\q2 but a region that got no rain dried out.
+\v 8 Then two or three cities
+\q2 ranged as far as another city
+\q1 for drinking water, and still they did not have enough.
+\q2 And yet you didn't come back to me," says the \nd Lord\nd*.
+\v 9 "I plagued you with blight and mildew,
+\q2 all through your gardens and vineyards.
+\q1 Grasshoppers ate your fig and your olive trees,
+\q2 And yet you didn't come back to me," says the \nd Lord\nd*.
+\b 
+\v 10 "I spread epidemics among you
+\q2 from the trade route to Egypt.
+\q1 I had your young men killed with the sword,
+\q2 your horses raided away.
+\q1 And I filled the air from the fires of your camps and made you breathe it,
+\q2 And yet you didn't come back to me," says the \nd Lord\nd*.
+\v 11 "I brought disasters on you, acts of God.
+\q2 Left like Sodom, and like Gomorrah.
+\q1 And you were like a half-burnt stick,
+\q2 And yet you didn't come back to me," says the \nd Lord\nd*.
+\v 12 "So, then, here is what I will do to you, Israel,
+\q2 It's at your heels. This is what I will do to you.
+\q1 Get ready to meet your God, Israel!"
+\q2 \v 13 Don’t you realize? The shaper of the hills, and the sender of the wind
+\q1 yes, who explains to man what he is,
+\q2 the maker of dawn and dusk,
+\q1 and the one striding across the heights of the world ---
+\q2 His name is the \nd Lord\nd*, the God of Armies!
+\b 
 \c 5
-\v 1
-\s Certain Destruction Awaiting Israel Unless She Seeks the Lord
-
-\q Hear the word which I take up against you, even a dirge, O house of Israel:
-\q \v 2 Fallen, no more to rise, is the virgin Israel!
-\q Hurled down upon her own soil she lies, with none to raise her!
-\b
-\q \v 3 For thus saith the Lord the \nd Lord\nd*:
-\q The city that taketh the field with a thousand hath but a hundred left,
-\q And the one that taketh the field with a hundred bath but ten left.
-\q \v 4 For thus saith the \nd Lord\nd* to the house of Israel:
-\q Seek me and live,
-\q \v 5 But seek not Bethel,
-\q And Gilgal do not enter,
-\q To Beersheba go not over;
-\q For Gilgal shall taste the gall of exile,
-\q And Bethel shall go to perdition.
-\b
-\q \v 6 Seek the \nd Lord\nd* and live,
-\q Lest he cast fire on the house of Joseph,
-\q And it devour and there be none to quench it for Bethel.
-\b
-\q \v 8 He it is who made the Pleades and Orions
-\q Who turneth deep gloom into morning,
-\q And darkeneth day again into night,
-\q Who calleth the waters of the sea,
-\q And poureth them out on the face of the earth,
-\q \v 9 Who causeth destruction to burst over the strong,
-\q And bringeth devastation upon the fortress,
-\q the \nd Lord\nd* is his name..
-
-\s A Solemn Warning to the Corrupt Judges
-
-\q \v 7 Alas, for those who turn judgment to wormwood,
-\q And east righteousness to the ground,
-\q Who hate him that reproves in the gate,
-\q And abhor one that speaks uprightly!
-\b
-\q \v 11 Therefore, because ye trample upon the weak,
-\q And take front him exactions of grain,
-\q Houses of hewn stone have ye built,
-\q But ye shall not dwell in them,
-\q Charming vineyards have ye planted,
-\q But ye shall not drink their wine.
-\b
-\q \v 12 Surely I know how many are your transgressions,
-\q And how great are your sins!
-\q Ye persecutors of the righteous, takers of bribes!
-\q Yea, the needy in the gated they thrust aside.
-\b
-\q \v 13 Therefore since the prudent man at such a time keeps silent,
-\q It is surely an evil time.
-\q \v 14 Seek good and not evil,
-\q That ye may live;
-\q That this the \nd Lord\nd*, God of hosts,
-\q May be with you, as ye have said.
-\b
-\q \v 15 Hate evil and love good,
-\q And establish justice in the gate;
-\q Perhaps the \nd Lord\nd* will be gracious,
-\q The God of hosts, to a remnant of Joseph.
-\b
-\q \v 16 Therefore thus saith the \nd Lord\nd* thee God of hosts:
-\q In all squares there shall be wailing,
-\q And in every street they shall say, "Alas! Alas!"
-\q And they shall summon the husbandman to mourning,
-\q And to wailing those skilled in lamentation,
-\q \v 17 Yea, in all vineyards there shall be wailing,
-\q When I pass through the midst of thee, saith the \nd Lord\nd*.
-
-\s Captivity Awaiting Corrupt Israel
-
-\q \v 18 Alas, for those who long for the day of the \nd Lord\nd*!
-\q What have you to do with the day of the \nd Lord\nd*?
-\q It is darkness, and not light.
-\q \v 19 It is as when one flees from a lion,
-\q And a bear falls upon him,
-\q Or goes into the house and leans his hand upon the wall,
-\q And a serpent bites him.
-\q \v 20 Shall not the \nd Lord\nd*'s day be darkness and not light,
-\q Yea, murky darkness without a ray of light in it?
-\q \v 21 I hate, I despise your feasts,
-\q And I will not smell the savor of your festivals,
-\q \v 22 And with your cereal-offerings I will not be pleased,
-\q And the peace-offerings of your fatlings I will not regard with favor.
-\q \v 23 Banish from me the noise of your songs,
-\q For to the melody of your lyres I will not listen.
-\q \v 24 But let justice roll on as a flood of waters,
-\q And righteousness like an unfailing stream.
-\b
-\q \v 25 Was it only sacrifices and cereal-offerings ye brought me
-\q In the wilderness during forty years, O house of Israel?
-\q \v 26 But now ye shall lift up the shrine of your king,
-\q And the image of your God which you have made for yourselves,
-\q \v 27 And I will carry you away into exile beyond Damascus,
-\q Saith the \nd Lord\nd* the God of hosts.
-\b
-\q \c 6 \v 1 Alas for those who are careless in Zion,
-\q And overconfident on the mountain of Samaria!
-\q Men of mark of the first of the nations,
-\q To whom the house of Israel resort!
-\q \v 2 Pass over to Calneh and see,'
-\q And go from there to Hamath the great,
-\q Then go down to Gath of the Philistines ---
-\q Are they better than these kingdoms,
-\q Or is your territory larger than their territory?
-\q \v 3 They who would postpone the day of calamity,
-\q And yet have instituted a rule of violence.
-\q \v 4 They who lie on ivory couches,
-\q And sprawl upon their divans,
-\q And eat lambs from the flock,
-\q And calves from out the stall;
-\q \v 5 They drawl to the sound of the lyre,
-\q Like David, they devise for themselves instruments of song.
-\q \v 6 They drink bowlfuls of wine,
-\q And anoint themselves with the finest of oil,
-\q But they do not grieve over the ruin of Joseph.
-\b
-\q \v 7 Therefore now they must go into exile at the head of the captives,
-\q And hushed shall be the revelry of the sprawlers,
-\q \v 8 It is the oracle of the \nd Lord\nd*, the God of hosts.
-\q the \nd Lord\nd* hath sworn by himself:
-\q I abhor the pride of Jacob,
-\q And his palaces I hate,
-\q Therefore I will deliver up the city and all that is in it,
-\q \v 11 And one shall smite the great house into atoms,
-\q And the small house into fragments.
-\b
-\q \v 12 Do horses run upon crags?
-\q Does one plow the sea with oxen?
-\q That you turn justice into poison,
-\q And, the fruit of righteousness into wormwood?
-\q \v 13 Ye who rejoice in that which is not,
-\q Who say, 'Have we not by our own strength taken horns for ourselves.
-\q \v 14 Verily, I am now raising up against you,
-\q O house of Israel, a nation;
-\q And they shall oppress you,
-\q From the entrance of Hamath
-\q Even to the brook of the Arabah,
-\q Is the oracle of the \nd Lord\nd*, the God of hosts.
-
+\v 1 Listen to this problem,
+\q2 that I need to take up with you.
+\q1 It’s a sad song, family of Israel.
+\q2 \v 2 “She has fallen, and she can’t get up. Miss Israel has.
+\q1 Thrown down on her own ground,
+\q2 with no one to help her to her feet.”
+\v 3 Because this is what His [cth:Honour|us:Honor] the \nd Lord\nd* says.
+\q2 "A city that fielded a thousand has a hundred left,
+\q1 and the one that fielded a hundred
+\q2 has only ten for the House of Israel."
+\v 4 Because here is what the \nd Lord\nd* says to the family of Israel:
+\q2 "Learn from me and live.
+\v 5 But don't start looking to Beit El,
+\q2 and do not go to Gilgal.
+\q1 And do not travel to Beersheba.
+\q2 Because Gilgal is doomed to deportation,
+\q1 and Beit El will become a ghost town."\f + \fq will become a ghost town. \fl Lit. \fqa will be (known as) Aven.\ft Beit El was destroyed without a trace. It is possible that Aven, "empty desire," was a nearby village.\f*
+\q2 \v 6 Learn from the \nd Lord\nd* and live,
+\q1 or he will rage like fire through the household of Joseph,
+\q2 that burns, with no one to fight it, around Beit El.
+\v 7 Where you’ve plowed under good judgment and grown [cth:wormwood|us:sagebrush],
+\q2 and put a stop to right practices with bad laws.
+\v 8 The one who made the Pleiades and Orion,
+\q2 who brings dawn just when it's darkest,
+\q1 and turns the daylight back into nighttime,
+\q2 who summons the ocean’s waters,
+\q1 and pours them out over dry land,
+\q2 the \nd Lord\nd* is his name.
+\v 9 Who makes disaster ambush the mighty,
+\q2 sends disaster as far as their hideout.
+\v 10 Oh, you who hate anyone correcting you in public,
+\q2 and avoid anyone who speaks frankly,
+\v 11 because you've marginalized the weak,
+\q2 and demanded a share of their crops!
+\q1 Well, you have built tiled houses,
+\q2 but you will not call them home.
+\q1 You have planted lush vineyards,
+\q2 But you will not drink their wine.
+\v 12 Oh, I know your long list of [cth:licence|us:license], 
+\q2 your staggering count of sins!
+\q1 You adversaries of the innocent!
+\q2 Your hands out for hush money,
+\q1 While you drive away the needy downtown\f + \fq downtown \fl Lit. \fqa in the gates.\f*! 
+\q2 \v 13 That's why a person with any sense
+\q1 will keep their mouth shut at a time like this.
+\q2 These are troubled times.
+\v 14 So work toward good, and stay out of trouble,
+\q2 You want to live. So be it!
+\q1 Yes, the \nd Lord\nd*, the God of Armies,
+\q2 be with you, as you have said.
+\v 15 Hate trouble, and love good,
+\q2 and make justice a fixture downtown.
+\q1 Who knows? Maybe the \nd Lord\nd*, the God of Armies,
+\q2 will be sympathetic to what’s left of Joseph.
+\b 
+\v 16 So this is what the \nd Lord\nd* says,
+\q2 His [cth:Honour|us:Honor], the God of Armies.
+\q1 "There will be mourning on every boulevard,
+\q2 and in every street they’ll cry, 'No, no!'
+\q1 They’ll call in the gravedigger to the burial,
+\q2 and the funeral directors for the memorial,
+\v 17 There’ll be a funeral in every farmyard,
+\q2 when I come through to deal with you," says the \nd Lord\nd*.
+\b 
+\v 18 "Beware, you that are wishing for the Day of the \nd Lord\nd*!
+\q2 What business of yours is the Day of the \nd Lord\nd*?
+\q1 It's darkness, and not light.
+\q2 \v 19 It's like when a person runs away from a lion,
+\q1 and a bear meets them,
+\q2 Or they go in the house, and lean a hand on the wall,
+\q1 and a snake bites them.
+\q2 \v 20 Won’t it be dark on the Day of the \nd Lord\nd*, and not bright?
+\q1 Amd be black, without a ray of light?
+\q2 \v 21 I hate, I'm disgusted by your holidays.
+\q1 And I do not want to smell your barbecues.
+\q2 \v 22 No, if you offer burnt offerings,
+\q1 and grain offerings, I won’t enjoy them.
+\q2 I won’t give your marbled meat a second look.
+\v 23 Get the noise of your songs away from me.
+\q2 I am through listening to the plunking of your strings.
+\v 24 Just let fairness roll in like ocean waves,
+\q2 and ethics like a year-round stream.
+\v 25 Did you bring me sacrifices and grain offerings
+\q2 in the wilderness forty years, family of Israel?
+\v 26 No, you carried the shelters of your kings,
+\q2 and the standard of your images,
+\q1 the star of your gods, that you made for yourselves.
+\q2 \v 27 And I will deport you beyond Damascus."
+\q1 That is what the \nd Lord\nd* has said,
+\q2 whose name is the God of Armies.
+\b  
+\v 6
+\v 1 Watch out, you who are at your ease in Zion,
+\q2 and self-assured in Samaria Hill!
+\q1 You're driven men, an international elite, 
+\q2 And the family of Israel comes to you.
+\v 2 Travel to Calneh and see,
+\q2 and go from there to Greater Hamath.
+\q1 Then out to Philistine Gath. Are your kingdoms better than theirs?
+\q2 Or is the area inside your borders bigger?
+\v 3 Are you holding off times of hardship?
+\q2 And how? At the price of harsh tyranny?
+\v 4 You are lying on ivory beds,
+\q2 and relaxing on your couches, 
+\q1 and eating milk-fed lamb and penned veal.
+\q2 \v 5 You improvise to the sound of the \tr nevel\tr*\f + \fr 6.5 \fq \tr nevel\tr* \ft A resonating stringed instrument that is an ancestor of the guitar.\f*,
+\q1 inventing new musical instruments like David. 
+\q2 \v 6 You drink wine by the bowlful,
+\q1 and put on lotions of virgin oil,\f + \fq virgin oil \ft Oil from Tekoa was traditionally preferred for Temple use, because of its quality.\f*
+\q2 but you are not at all concerned about the decline of Joseph. 
+\v 7 So now you'll be the first in line to be deported, 
+\q2 and the cheers of the party-goers will fade away.
+\v 8 His [cth:Honour|us:Honor] the \nd Lord\nd* has sworn by himself. 
+\q2 The \nd Lord\nd*,  the God of Armies, announces,
+\q1 "I want nothing to do with the Rise of Jacob!\f + \fq Rise of Jacob \fl Traditionally, \fqa Pride of Jacob.\f*
+\q2 And I hate their high buildings. 
+\q1 So I will write off\f + \fr 6.8 \fq write off \ft The Hebrew word means both \fqa write off \ft and \fqa seal up.\f* cities and everyone in them."
+\q2 \v 9 For example, if there are ten men
+\q1 left in one household, they'll all die. 
+\q2 \v 10 And there will be someone taking the corpse 
+\q1 of a relative outside to burn it.
+\q2 And he will ask someone he meets in an alley,
+\q1 “Is anyone left?”
+\q2 And he will answer, “Not a one,” and then, “Hush!
+\q1 We mustn’t be heard speaking the name of the \nd Lord\nd*!”
+\q2 \v 11 Because, you see, the \nd Lord\nd* will give the order
+\q1 to shatter the great house to bits,
+\q2 and to split the small house into pieces.
+\v 12 Can horses run over steep rocks?
+\q2 Can they be plowed with oxen?
+\q1 Because you’ve turned right judgment over to opium,
+\q2 and the fruit of right practice to [cth:wormwood|us:sagebrush].
+\v 13 You who celebrate over Lo Debar, “Nothing There,”
+\q2 and say, “Look! We were strong enough to take Karnaim, ‘Horns,’ for ourselves.”
+\v 14 "I'll show you, family of Israel. I’m preparing" ---
+\q2 declares the \nd Lord\nd*, the God of Armies --- "an enemy nation.
+\q1 And they will harass you from Hamath Gap\f + \fl Traditionally: \fqa the Entrance of Hamath. \ft Homs Gap, site of the \em Krak des Chevaliers\em* castle, is known as "the gateway to Syria."\f*
+\q2 to the Wadi Arabah."
 \c 7
-\v 1
-\s Symbolic Pictures of the Impending Judgment
-
-\q Thus the Lord the \nd Lord\nd* showed me,
-\q And behold, he was forming locusts,
-\q When the late spring grass began to come up.
-\q \v 2 And when they were making an end
-\q Of devouring the vegetation of the land,
-\q I said, O Lord the \nd Lord\nd*, forgive, I pray,
-\q How can Jacob stand, for he is small?
-\q \v 3 the \nd Lord\nd* relented concerning this;
-\q It shall not be, said the \nd Lord\nd*.
-\b
-\q \v 4 Thus the Lord the \nd Lord\nd* showed me,
-\q And behold, he was giving command to execute judgment,
-\q By fire --- the Lord the \nd Lord\nd*.
-\q And it devoured the great deep,
-\q And had begun to devour the tilled land;
-\q \v 5 Then I said, 0 Lord the \nd Lord\nd* cease, I pray,
-\q How can Jacob stand for he is small? '
-\q \v 6 the \nd Lord\nd* relented concerning this;
-\q Neither shall this be, said the \nd Lord\nd*.
-\b
-\q \v 7 Thus the Lord showed me,
-\q And behold the Lord was standing
-\q Beside a wall, with a plumb-line in his hand.
-\q \v 8 And the \nd Lord\nd* said to me,
-\q What dost thou see, Amos?
-\q And I answered, A plumb-line,
-\q Then the Lord said, Behold I am setting a plumb-line
-\q In the midst of my people Israel,
-\q I will not again pass by them any more.
-\q \v 9 And the high places of Isaac shall be desolate,
-\q The sanctuaries of Israel shall be laid waste,
-\q And I will rise up against the house of Jeroboam with the sword.
-
-\s Amaziah's Accusation and Amos's Reply
-
-\p \v 10 Then Amaziah the priest of Bethel sent to Jeroboam king of Israel, saying, Amos has conspired against you in the midst of the house of Israel; the land is not able to bear all his words." \v 11 For thus has Amos said, `Jeroboam shall die by the sword, and Israel shall surely be led away captive out of his land.'
-\b
-\p \v 12 Also Amaziah said to Amos,O seer, go flee away to the land of Judah, and there eat bread and there prophesy; \v 13 but you shall no longer prophesy at Bethel; for it is the king's sanctuary, and it is the royal residence.
-\b
-\p \v 14 Then Amos answered and said to Amaziah, I was no prophet, nor a son of a prophet; but I was a shepherd and a dresser of sycamores; \v 15 but the \nd Lord\nd* took me from following the flock, and the \nd Lord\nd* said to me, Go, prophesy against my people Israel.
-\b
-\p \v 16 Now therefore hear the word of the \nd Lord\nd*: Thou sayest, "Thou shalt not prophesy against Israel, nor preach against the house of Isaac." \v 17 Therefore thus saith the \nd Lord\nd*: Thy wife shall be a harlot in the city and thy sons and thy daughters shall fall by the sword, and thy land shall be divided by line; and thou shalt die upon an unclean soil, and Israel shall surely be led away captive out of his land.
-
+\v 1 His [cth:Honour|us:Honor] the \nd Lord\nd* showed me this.
+\q2 I looked, and he was bringing locusts,
+\q1 when the grass from the spring rains sprouted.
+\q2 Now, this was the growth flush after the King’s Cutting.
+\v 2 And when they were about
+\q2 to finish off the vegetation of the land,
+\q1 Then I said, Your [cth:Honour|us:Honor], \nd Lord\nd*! Please, stop!
+\q2 How can Jacob survive? He is so small!
+\v 3 The \nd Lord\nd* was moved by the thought.
+\q2 “That will not happen,” the \nd Lord\nd* said.
+\b 
+\v 4 His [cth:Honour|us:Honor] the \nd Lord\nd* showed me this.
+\q2 I saw that he was calling for fire to come up ---
+\q1 His [cth:Honour|us:Honor] the \nd Lord\nd* was. And it burned deep underground,
+\q2 and it had begun to devour the farmland.
+\v 5 Then I said, Your [cth:Honour|us:Honor], \nd Lord\nd*! Stop, please!,
+\q2 How can Jacob survive? He is so small!'
+\v 6 The \nd Lord\nd* was moved by the thought.
+\q2 “That will not happen, either,” His [cth:Honour|us:Honor] the \nd Lord\nd* said.
+\b 
+\v 7 The \nd Lord\nd* showed me this.
+\q2 I saw that the \nd Lord\nd* was standing
+\q1 beside a wall under construction,\f + \fr 5.12 \fq wall under construction \fl Or \fqa masonry wall. \fl Lit. \fqa wall for a plumbline.\f*
+\q2 and he had a plumbline in his hand.
+\v 8 And the \nd Lord\nd* said to me,
+\q2 "What do you see, Amos?"
+\q1 And I answered, “A plumbline.”
+\q2 Then His [cth:Honour|us:Honor] the \nd Lord\nd* said,
+\q1 “It’s because I’m going to hold a plumbline
+\q2 up against my people Israel,
+\q1 I am not going to spare them any more.
+\q2 \v 9 And Ithaac’s\f + \fr 7.9 \ft Amos misspells "Isaac," creating a play on words that makes it sound like he is calling the patriarch a "playboy" instead of "the son of laughter."\f* hilltop shrines will be turned into ruins.
+\q1 The temples of Israel will be desolate,
+\q2 and I will attack the House of Jeroboam with the sword.”
+\b 
+\v 10 Then Amaziah the priest of Beit El
+\q2 sent a message to Jeroboam king of Israel that said,
+\q1 “Amos has formed a conspiracy against you among the House of Israel.
+\q2 The country is not secure while he is allowed to speak.
+\v 11 Because Amos has said that ‘Jeroboam will die by the sword,
+\q2 and Israel is going to be deported away from their own soil.'”
+\b 
+\v 12 Then Amaziah said to Amos, "You holy man!\f + \fq holy man \fl Lit. \fqa seer. \fl cf. \ft 1 Samuel 9.9. Amaziah insults Amos by using the archaic term for a prophet.\f* Go, run back home to Judah!
+\q2 and ‘eat bread’\f + \fq eat bread \ft A mocking reference to the story in 1 Kings 13.9\f* there, and do your preaching there!
+\v 13 But you are never to speak out at Beit El again.
+\q2 Because this is the national cathedral, and the seat of royal authority."
+\v 14 Then Amos answered Amaziah, and said,
+\q2 “I am not a preacher. I am not a member of any preacher's school.\f + \fl Lit. \fqa not a prophet's apprentice (2 Kings 2.3).\f*
+\q1 But I was a cowhand, and I scored sycomore figs for ripening.
+\q2 \v 15 Then the \nd Lord\nd* took me from the cattle trail,
+\q1 and the \nd Lord\nd* said to me, ‘Go, and speak out to my people Israel.’
+\q2 \v 16 So, now, listen to the word of the \nd Lord\nd*.
+\q1 You're saying, ‘Don't speak out against Israel,
+\q2 or criticize the House of Ithaac.’
+\v 17  Well, that's why the \nd Lord\nd* says this:
+\q2 'Your wife is going to end up as a prostitute in the big city. 
+\q1 Your sons and your daughters are going to fall by the sword.
+\q2 Your farm is going to be surveyed and subdivided. 
+\q1 And you yourself are going to die where the land is unclean,
+\q2 and Israel is going to be deported away from their own soil.'”
+\b 
 \c 8
-\v 1
-\s The Symbolic Picture of Israel's Approaching End
-
-\q Thus the Lord the \nd Lord\nd* showed me,
-\q And behold, a basket of summer fruit.
-\q \v 2 Then he said, 'What dost thou see, Amos?'
-\q And I said, 'A basket of summer fruit.'
-\q And the \nd Lord\nd* said to me,
-'The end has come to my people Israel,
-\q I will not again pass them by.'
-\b
-\q \v 4 Hear this, you who trample upon the needy,
-\q And oppress the poor of the earth, saying,
-\q \v 5 When shall the new moon pass that we may sell grain,
-\q And the sabbath that we may open the corn ---
-\q Making smaller the measure and enlarging the weight,
-\q And perverting the false balances ---
-\q \v 6 And that we may sell the refuse of the corn!
-\b
-\q \v 7 the \nd Lord\nd* bath sworn by the pride of Jacob,	
-\q Never shall I forget all their deeds!	
-\q \v 8 For this shall not the land tremble,	
-\q And all her inhabitants mourn?	
-\q Shall not the whole of it rise like the Nile,	
-\q And sink like the Nile of Egypt?	
-\b
-\q \v 9 And it shall come to pass in that day,	
-\q It is the oracle of the Lord the \nd Lord\nd*,
-\q That I will make the sun set at noon	
-\q And darken the earth in broad day,
-\q And the singing-women of the palace shall wail,
-\q It is the oracle of the Lord the \nd Lord\nd*.
-\q A multitude of carcasses! In every place they are cast!
-\b
-\q \v 10 And I will turn your festivals into mourning,
-\q And all your songs into dirges,
-\q I will bring upon all loins sackcloth,
-\q And upon every head baldness,
-\q I will make it like the mourning for an only son,
-\q And the end of it like a bitter day.	
-\b
-\q \v 11 And I will send hunger in the land,
-\q Not a famine of bread nor a thirst for water,	
-\q But for hearing the word of the \nd Lord\nd*.	
-\q \v 12 Then shall they wander from sea to sea,	
-\q From the north to the rising of the sun shall they run to and fro,
-\q To seek the word of the \nd Lord\nd*, but they shall not find it.
-\b
-\q \v 13 In that day shall faint	
-\q The fairest maidens and the youths,	
-\q \v 14 Who swear by the guilts of Samaria,	
-\q And say, 'As liveth thy God, O Dan!	
-\q And as liveth thy patron, O Beersheba!'	
-\q And they shall fall, no more to rise!
-
-\c 9
-\v 1
-\s The Portrayal of the Final Destruction of the Nation
-
-\q I saw the Lord standing by the altar;
-\q And he said, Smite the capitals that the thresholds may shake,
-\q Yea, break them off upon the head of all of them,
-\q And the rest of them I will slay with the sword,
-\q Not one of them shall escape,
-\q Nor shall a refugee be delivered from among them.
-\b
-\q \v 2 If they dig through to Sheol,
-\q Thence will my hand take them;
-\q And if they climb up to heaven,
-\q Thence will I bring them down;
-\q \v 3 And if they hide themselves on the top of Carmel,
-\q Thence will I search them out and take them.
-\b
-\q And if they hide out of my sight at the bottom of the sea,
-\q Thence will I command the sea-serpent to bite them;
-\q \v 4 And if they go-into captivity before their enemies,
-\q Thence will I command the sword to slay them,
-\q And I will keep my eye on them,
-\q For evil and not for good.
-\b
-\q \v 5 And it is the Lord the \nd Lord\nd* of hosts,
-\q Who toucheth the earth and it melts,
-\q And all who dwell in it mourn,
-\q And all of it rises up like the Nile,
-\q And sinks like the Nile of Egypt.
-\q \v 6 He who buildeth his chambers in the heavens,
-\q And hath established his vault upon the earth;
-\q He that calleth for the waters of the sea.
-\q And poureth them out upon the face of the earth
-\q the \nd Lord\nd* is his name.
-\b
-\q \v 7 Are ye not as the Cushites to me
-\q O Israel? is the oracle of the \nd Lord\nd*.
-\q Did I not bring up Israel out of the land of Egypt,
-\q And the Philistines from Caphtor, and Aram from Kir?
-\q \v 8 Behold the eyes of the Lord the \nd Lord\nd* are upon the sinful kingdom,
-\q And I will destroy it from the face of the earth.
-\q Except that I will not completely destroy the house of Jacob,
-\q It is the oracle of the \nd Lord\nd*.
-
-\s The Glories of the Restoration
-
-\q \v 9 For behold I am about to give command.
-\q And I will shake the house of Israel among all the nations.
-\q Just as one shakes grain in a sieve;
-\q But not a kernel shall fall to the ground.
-\q \v 10 By the sword shall die all the sinners of my people,
-\q Who say, Disaster shall not touch or befall us.
-\b
-\q \v 11 In that time I will raise up the hut of David that is fallen,
-\q I will wall up its breaches and raise up its ruins,
-\q And I will rebuild it as in the days of old,
-\q \v 12 In order that they may possess the remnant of Edom,
-\q And all the nations which were called by my name,
-\q It is the oracle of the \nd Lord\nd*, who will do this.
-\b
-\q \v 13 Behold the days are coming, is the oracle of the \nd Lord\nd*,
-\q When the plowman shall overtake the reaper,
-\q And the treader of grapes him who soweth seed;
-\q The mountains also shall drop sweet wine.
-\q And all the hills shall melt.
-\b
-\q \v 14 And I will lead back the captivity of my people Israel,
-\q And they shall rebuild waste cities and inhabit them.
-\q And they shall plant vineyards and drink their wine,
-\q And they shall make gardens and eat their fruit,
-\q \v 15 And I will plant them upon their own soil.
-\q And they shall never again be torn away from their land,
-\q Which I have given them, saith the \nd Lord\nd* thy God.
+\v 1 His [cth:Honour|us:Honor] the \nd Lord\nd* showed me something.
+\q2 It was a harvesting bin.\f + \fl Others \fqa a basket of summer fruit. \ft The word \fqa fruit \ft is not part of the text. \f*
+\v 2 Then he said, 'What do you see, Amos?'
+\q2 And I said, 'It's a harvest bin.'
+\q1 And the \nd Lord\nd* said to me, “The end of harvest is on my people Israel.
+\q2 I am not going to spare them any more.
+\v 3 Oh, they are going to wail their songs in the great hall then,"
+\q2 declares His [cth:Honour|us:Honor] the \nd Lord\nd*.
+\q1 “Carcasses will be piled everywhere.
+\q2 ‘Get them out of here! Hush!’”
+\b 
+\v 4 Listen to this, you that market to the needy,
+\q2 and try to put family farmers out of work.
+\v 5 You’re saying,
+\q2 ‘When will the first of the month be over,
+\q1 So that we can retail in earnest?”
+\q2 And the Sabbath, so we can portion out product?
+\q1 Making the \tr ephah\tr* smaller and smaller, and the \tr shekel\tr* weigh more and more,
+\q2 And giving false value with rigged scales.
+\v 6 While you buy off the weak with a wage,
+\q2 and the poor for the proverbial pair of shoes.
+\q1 While you package the waste in with the goods!’”
+\q2 \v 7 The \nd Lord\nd* swears, “By the Rise of Jacob!
+\q1 See if I ever forget all they have done!”
+\q2 \v 8 Isn’t that why the earth is in uproar,
+\q1 And all its population is in despair?
+\q2 That's why the sea level rises like a spring flood,\f + \fq like a spring flood \fl Others \fqa like the Nile. \ft The word \tr 'or\tr*, used only here, is probably a common noun related to \tr Y'or\tr*, "Nile."\f*
+\q1 And overflows, and spreads out,
+\q2 And finds a new shore,\f + \fq finds a new shore \fl Traditionally emended as \fqa subsides \ft to match 9.5e. The emendation, from a common water-word to a less common one, seems unnecessary. \f* like the Nile in Egypt.
+\b 
+\v 9 "And it will also happen at that time,"
+\q2 declares His [cth:Honour|us:Honor] the \nd Lord\nd*,
+\q1 "That I will bring in the sun at noon
+\q2 And darken the land on a clear day.
+\v 10 And I will turn your holidays into mourning,
+\q2 And all your songs into wailing.
+\q1 I will have everyone wearing black,
+\q2 And every head shaved.
+\q1 I will make it like the mourning for an only child,
+\q2 And what follows like a day for embalming.\f + \fq a day for embalming \fl Traditionally \fqa a bitter day. \ft Repointing gives \tr yom mor\tr*, "a day for myrrh" instead of \tr mar\tr*, "a bitter day."\f*
+\v 11 "You see, times are coming,"
+\q2 declares His [cth:Honour|us:Honor] the \nd Lord\nd*,
+\q1 "When I will send a famine on the land.
+\q2 Not a food famine or a water shortage,
+\q1 But one for hearing the word of the \nd Lord\nd*.
+\q2 \v 12 Then they will flit from sea to sea,
+\q1 And from the north to the sunrise, they will flog themselves
+\q2 in search of the word of the \nd Lord\nd*, but they won't find it.
+\v 13 In that day the beautiful girls
+\q2 And the eligible young men are going to faint from thirst,
+\v 14 The ones who swear by the Guilt Sacrifice of Samaria,
+\q2 and say, 'Your God lives, Dan!’
+\q1 And, ‘Long live the Way of Beersheba!'
+\q2 Yes, they will fall, and not get up again."
+\b 
+\c 9  
+\v 1 I saw the \nd Lord\nd* standing next to the altar,
+\q2 and he said, “Hit the capital, and make the thresholds shake!
+\q1 Yes, break them all off at the top!
+\q2 And I’ll kill the ones left with the sword.
+\q1 Not a one will bolt and get away.
+\q2 And none of the stragglers will escape.
+\v 2 If they burrow down to Sheol,
+\q2 I’ll reach in and pull them out.
+\q1 And if they soar up into the sky,
+\q2 I will bring them right down to ground.
+\v 3 If they hide out on the top of Carmel,
+\q2 I’ll come in quietly and round them up there.
+\q1 And if they hide where I can't see them on the bottom of the ocean,
+\q2 I’ll just send in a deep-sea eel to bite them.
+\v 4 And if they try to return home in spite of their enemies,
+\q2 I will send to have them killed with the sword.
+\q1 I will keep my eye on them, all right.
+\q2 I mean that in a bad way, not in a good way."
+\v 5 And His [cth:Honour|us:Honor], the \nd Lord\nd* of Armies,
+\q2 who touches the earth and it melts,
+\q1 and all of its population panics,
+\q2 and the sea level rises like a river in flood,
+\q1 and crests, like the Nile in Egypt,
+\q2 \v 6 who builds up water towers in the sky,
+\q1 and has set up its reservoirs on earth,
+\q2 who summons the waters of the ocean,
+\q1 and pours them out on dry land;
+\q2 the \nd Lord\nd* is his name.
+\v 7 “Aren’t you just like the people of the Cushites to me,
+\q2 people of Israel?” says the \nd Lord\nd*.
+\q1 “Didn’t I bring Israel up out of the land of Egypt?
+\q2 And the Philistines from Caphtor, and Aram from Kir?
+\v 8 See, now. His [cth:Honour|us:Honor] the \nd Lord\nd* has his eye on this crooked country,
+\q2 And he would have wiped you off the face of the earth,
+\q1 if it wasn’t that he will never make a full end
+\q2 Of the family of Jacob," says the \nd Lord\nd*.
+\v 9 "Because, you see, I am going to give the order,
+\q2 and the family of Israel will be sifted among all the nations,
+\q1 like sifting through a grain sieve.
+\q2 And not one pebble will fall to the ground.
+\v 10 Through the sword all the evildoers among my people will die.
+\q2 The ones who say, “Trouble won’t touch us. It’s not coming our way.”
+\v 11 At that time I will put up again
+\q2 David’s shelter that has fallen down.
+\q1 And I will patch the holes in the the wall,
+\q2 and I'll rebuild what’s been torn apart,
+\q1 and I will build it again the way it was a long time ago.
+\q2 \v 12 So they may take possession of what’s left of Edom,
+\q1 and all the nations that have had my name called over them,”
+\q2 declares the \nd Lord\nd*, who does all this.
+\b 
+\v 13 "A time is coming, you see,"
+\q2 declares the \nd Lord\nd*,
+\q1 "when the plowman will be interrupted\f + \fq will be interrupted \fl Others \fqa will overtake. \fl Lit. \fqa will meet.\f* by the reaper,
+\q2 and the grape treader by the one bringing out the seed.
+\q1 And the mountains will foam over with fresh wine,
+\q2 and all of the hills will re-soften.
+\v 14 And I will bring back the returnees of my people Israel,
+\q2 and they will rebuild the ruined cities and live there,
+\q1 and plant vineyards and drink their wine,
+\q2 and plant orchards and eat their fruit.
+\v 15 And I will plant them on their land,
+\q2 and they will never again be uprooted from their own soil,
+\q1 which I gave to them,"
+\q2 says the \nd Lord\nd* your God.
